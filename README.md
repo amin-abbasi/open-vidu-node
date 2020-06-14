@@ -1,5 +1,5 @@
 # Open-Vidu-Node
-This is a Video Call sample project used OpenVidu Server as core and written with Node.js (Express).
+This is a Video Call sample project used [OpenVidu] Server as core and written with Node.js (Express).
 
 
 ## Prerequisites
@@ -25,3 +25,6 @@ then:
 ```
 nodemon
 ```
+
+### References
+[OpenVidu]: https://docs.openvidu.io/en/2.14.0/
