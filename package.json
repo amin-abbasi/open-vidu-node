@@ -1,0 +1,28 @@
+{
+  "name": "open-vidu-node",
+  "version": "1.0.0",
+  "description": "This is a Video Call sample project using OpenVidu Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "ng test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amin4193/open-vidu-node.git"
+  },
+  "author": "amin4193@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/amin4193/open-vidu-node/issues"
+  },
+  "homepage": "https://github.com/amin4193/open-vidu-node#readme",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "dotenv": "^8.2.0",
+    "express": "4.16.4",
+    "express-session": "1.16.1",
+    "lodash": "^4.17.15",
+    "openvidu-node-client": "2.14.0"
+  }
+}
